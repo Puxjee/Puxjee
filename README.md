@@ -1,6 +1,6 @@
 ![MasterHead](https://media.licdn.com/dms/image/D4D16AQGCAw7W6uj08w/profile-displaybackgroundimage-shrink_350_1400/0/1676048572167?e=1711584000&v=beta&t=DeXI3O7s58GQ-mw06ZlNVam9PPonFXLrBu2dXckP4qg)
 <h1 align="center">Hi 👋, I'm Melek ElMokhtar</h1>
-<h3 align="center">A passionate "future" frontend developer from Tunisia 🇹🇳</h3>
+<h3 align="center">A passionate frontend developer from Tunisia 🇹🇳</h3>
 <img align="right" alt="Coding" width="400" src="https://dl.openseauserdata.com/cache/originImage/files/527a9783c28c70962773a73db797ea4d.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=puxjee&label=Profile%20views&color=0e75b6&style=flat" alt="puxjee" /> </p>
