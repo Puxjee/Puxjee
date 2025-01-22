@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=puxjee&label=Profile%20views&color=0e75b6&style=flat" alt="puxjee" /> </p>
 
-- 🌱 I’m currently learning **React JS, flutter**
+- 🌱 I’m currently learning **React JS, Node JS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Puxjee](https://github.com/Puxjee)
 
